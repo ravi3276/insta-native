@@ -10,3 +10,11 @@ This project aims to be a strong foundation for react-native applications. It pr
 * Cocoapods 1.10.1
 * JDK > 11
 * Android Studio and Android SDK
+
+
+# How to use it
+
+* git clone 
+* cd insta-native
+* npm install
+* npm start
