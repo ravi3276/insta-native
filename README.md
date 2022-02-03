@@ -14,7 +14,7 @@ This project aims to be a strong foundation for react-native applications. It pr
 
 # How to use it
 
-* git clone 
+* git clone https://github.com/ravi3276/insta-native.git
 * cd insta-native
 * npm install
 * npm start
